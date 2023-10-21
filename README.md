@@ -10,11 +10,13 @@ Train-val-test splits of the proposed dataset GPT2Shape can be found in folder g
 
 Each CSV file contains the ShapeNet model_id of every shape, the corresponding textual description, the name and id of the category and other metadata.
 
-## Evaluation metric CrossCoherence
-### Installation
-### Training
-### Usage
+## Installation
 
+## Evaluation metric CrossCoherence - inference
+### Inference 
+
+## Evaluation metric CrossCoherence - training
+### Training
 
 ## Human-validated test set HST
 
