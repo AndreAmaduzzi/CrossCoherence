@@ -1,6 +1,6 @@
 # Looking at words and points with attention: a benchmark for text-to-shape coherence <br /> (ICCV 2023 Workshop "AI for 3D Content Creation")
 
-![image](https://github.com/AndreAmaduzzi/CrossCoherence/blob/main/readme_pics/teaser.pdf)
+![image](https://github.com/AndreAmaduzzi/CrossCoherence/blob/main/readme_pics/teaser.png?raw=true)
 
 ## Dataset GPT2Shape
 Train-val-test splits of the proposed dataset GPT2Shape can be found in folder gpt2shape:
