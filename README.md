@@ -1,6 +1,12 @@
 # Looking at words and points with attention: a benchmark for text-to-shape coherence <br /> (ICCV 2023 Workshop "AI for 3D Content Creation")
 
 ## Dataset GPT2Shape
+Train-val-test splits of the proposed dataset GPT2Shape can be found in folder gpt2shape:
+* [train](gpt2shape/train.csv)
+* [val](gpt2shape/val.csv)
+* [test](gpt2shape/test.csv)
+
+Each CSV file contains the ShapeNet model_id of every shape, the corresponding textual description, the name and id of the category and other metadata.
 
 ## Evaluation metric CrossCoherence
 ### Installation
