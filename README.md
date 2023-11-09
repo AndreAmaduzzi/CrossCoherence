@@ -3,7 +3,7 @@
 ![image](https://github.com/AndreAmaduzzi/CrossCoherence/blob/main/readme_pics/teaser.png?raw=true)
 
 ## Dataset GPT2Shape
-Train-val-test splits of the proposed dataset GPT2Shape can be found in folder gpt2shape:
+Train-val-test splits of GPT2Shape dataset can be found in folder gpt2shape:
 * [train](gpt2shape/train.csv)
 * [val](gpt2shape/val.csv)
 * [test](gpt2shape/test.csv)
